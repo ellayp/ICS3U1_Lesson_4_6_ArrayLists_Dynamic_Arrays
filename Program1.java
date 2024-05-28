@@ -5,7 +5,7 @@ class Program1 extends ConsoleProgram {
 
   /**
   * Description
-  * @author:
+  * @author: E. Yap
   */
   
   public void run() {
